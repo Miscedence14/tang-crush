@@ -10,7 +10,7 @@ const CONFIG = {
     btnYes: 'chấp nhận hông :>>',
     btnNo: 'Không, Anh trai à :3',
     question:'Nếu em bằng lòng, anh sẽ mãi yêu em. Nếu em không bằng lòng, anh sẽ mãi tương tư :<',
-    btnReply: 'Gửi cho anh hì hì',
+    btnReply: 'Gửi câu trả lời cho anh hì hì',
     reply: 'em bằng lòng ',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Đợi sài gòn hết dịch anh chở em đi chơi nhé <3.',
